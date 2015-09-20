@@ -1,2 +1,4 @@
 Name:	Joseph
 DOB:	24/4/2002
+Sex:	Male
+Age: 	13
